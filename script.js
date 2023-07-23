@@ -39,27 +39,5 @@ showTime()
 
 
 
-// const options1 = {
-//     method: 'GET',
-//     headers: {
-// 		'X-RapidAPI-Key': '742611762amsha9e80ff84ce072fp1bcf9djsnb3949e2da3e9',
-// 		'X-RapidAPI-Host': 'weather-api99.p.rapidapi.com'
-//     }
-// };
-// const getWeather1 = (city)=>{
-    
-
-//     fetch('https://weather-api99.p.rapidapi.com/weather?city=london', options1)
-//     .then(response => response.json())
-//     .then((response) => {
-//         console.log(response);
-
-        
-             
-        
-//     })
-//     .catch(err => console.error(err))
-// }
 
 
-// getWeather1("London")
